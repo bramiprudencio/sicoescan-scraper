@@ -1,0 +1,7 @@
+setuptools
+pandas
+lxml
+selenium
+undetected-chromedriver
+google-cloud-storage
+google-auth
